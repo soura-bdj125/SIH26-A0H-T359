@@ -5,24 +5,24 @@
   <img src="assets/images/header.png" width=921 />
 </p>
 
-## SIH26-A0H-TXXX
+## SIH26-A0H-T359
 ### Team Details
-#### **Team Name** <<Insert Your Team Name>> <br/>
+#### **Team Name:** Half Squadron <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |                         |                        |                 |                                 |  
-|    Member 2     |                         |                        |                 |                                 |  
-|    Member 3     |                         |                        |                 |                                 |  
-|    Member 4     |                         |                        |                 |                                 |   
-|    Member 5     |                         |                        |                 |                                 |  
-|    Member 6     |                         |                        |     Female      |                                 |   
+|   Team Leader   |   V R Bhirugu Dev                      |  CB.EN.U4ELC24156                      |  Male               |  EEE/ELC                              |  
+|    Member 2     |   Adittya Seetharaman                      | CB.EN.U4EEE24004                       | Male                |  EEE                               |  
+|    Member 3     |  Pranav S                       | CB.EN.U4ELC25127                       | Male                |  EEE/ELC                               |  
+|    Member 4     |  Tejashwini M R                       | CB.EN.U4ELC25040                       |  Female               | EEE/ELC                                |   
+|    Member 5     |  Keerrthikaa B                       | CB.EN.U4ELC25017                       | Female                | EEE/ELC                                |  
+|    Member 6     |  Mamidipaka Aagama Vyahruthi                       | CB.EN.U4ELC25157                       |     Female      |  EEE/ELC                               |   
 
 #### Mentor Details
 
 |     Type       |       Mentor Name   |       Designation     |          Department     |       Official Email ID  |
 |:--------------:|:--------------------|:---------------------:|:-----------------------:|:------------------------ |
-| Academic       |                     |                       |                         |                          |
+| Academic       | Dr. Anu G. Kumar                    |  Assistant Professor (Sr. Gr.)                     |  Department of Electrical and Electronics Engineering, School of Engineering                        |  gk_anu@cb.amrita.edu                        |
 | Industry       |                     |                       |                         |                          |
 
 -----
@@ -31,11 +31,10 @@
 
 #### PS#1
 
-* **Problem Statement ID:**
-* **Problem Statement Title:**
-* **Theme / Category:**
-* **Ministry / Organization:**, wherever applicable
-
+* **Problem Statement ID:** SIH26055
+* **Problem Statement Title:** Smart Scan strategy for Electronic Warfare
+* **Theme / Category:** 	Robotics and Drones /	Software
+* **Ministry / Organization:**, DRDO
 #### PS#2
 
 * **Problem Statement ID:**
