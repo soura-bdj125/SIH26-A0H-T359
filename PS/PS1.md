@@ -5,6 +5,6 @@
   <img src="../assets/images/header.png" width=921 />
 </p>
 
-## SIH26-A0H-TXXX - Team <Team Name> <br/>
+## SIH26-A0H-T359 - Team Half Squadron <br/>
 
-### PS#1 
+### PS#1 : Smart Scan strategy for Electronic Warfare
