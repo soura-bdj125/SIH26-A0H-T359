@@ -5,6 +5,6 @@
   <img src="https://raw.githubusercontent.com/AVV-IIC/Smart-India-Hackathon-2025/refs/heads/main/Assets/images/header.png" width=880 />
 </p>
 
-## SIH26-A0H-TXXX - Team <Team Name> <br/>
+## SIH26-A0H-T359 - Team Half Squadron <br/>
 
-### PS#2
+### PS#2 : AI-Powered Automated Underwater Marine Debris and Anomaly Detection System using Side-Scan Sonar Imagery
