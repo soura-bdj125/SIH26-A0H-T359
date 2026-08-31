@@ -34,10 +34,10 @@
 * **Problem Statement ID:** SIH26055
 * **Problem Statement Title:** Smart Scan strategy for Electronic Warfare
 * **Theme / Category:** 	Robotics and Drones /	Software
-* **Ministry / Organization:**, DRDO
+* **Ministry / Organization:** DRDO
 #### PS#2
 
 * **Problem Statement ID:** SIH26057
 * **Problem Statement Title:** AI-Powered Automated Underwater Marine Debris and Anomaly Detection System using Side-Scan Sonar Imagery
 * **Theme / Category:** 	Disaster Management / Software
-* **Ministry / Organization:**, Ministry of Earth Sciences (MoES)
+* **Ministry / Organization:** Ministry of Earth Sciences (MoES)
