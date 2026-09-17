@@ -11,12 +11,12 @@
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |   V R Bhirugu Dev                      |  CB.EN.U4ELC24156                      |  Male               |  EEE/ELC                              |  
+|   Team Leader   |   V R Bhirugu Dev                      |  CB.EN.U4ELC24156                      |  Male               |  ELC                              |  
 |    Member 2     |   Adittya Seetharaman                      | CB.EN.U4EEE24004                       | Male                |  EEE                               |  
-|    Member 3     |  Pranav S                       | CB.EN.U4ELC25127                       | Male                |  EEE/ELC                               |  
-|    Member 4     |  Tejashwini M R                       | CB.EN.U4ELC25040                       |  Female               | EEE/ELC                                |   
-|    Member 5     |  Keerrthikaa B                       | CB.EN.U4ELC25017                       | Female                | EEE/ELC                                |  
-|    Member 6     |  Mamidipaka Aagama Vyahruthi                       | CB.EN.U4ELC25157                       |     Female      |  EEE/ELC                               |   
+|    Member 3     |  Pranav S                       | CB.EN.U4ELC25127                       | Male                |  ELC                               |  
+|    Member 4     |  Tejashwini M R                       | CB.EN.U4ELC25040                       |  Female               | ELC                                |   
+|    Member 5     |  Keerrthikaa B                       | CB.EN.U4ELC25017                       | Female                | ELC                                |  
+|    Member 6     |  Mamidipaka Aagama Vyahruthi                       | CB.EN.U4ELC25157                       |     Female      |  ELC                               |   
 
 #### Mentor Details
 
