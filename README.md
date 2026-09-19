@@ -9,14 +9,14 @@
 ### Team Details
 #### **Team Name:** Half Squadron <br/>
 #### Team Members
-|         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
-|:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |   V R Bhirugu Dev                      |  CB.EN.U4ELC24156                      |  Male               |  ELC                              |  
-|    Member 2     |   Adittya Seetharaman                      | CB.EN.U4EEE24004                       | Male                |  EEE                               |  
-|    Member 3     |  Pranav S                       | CB.EN.U4ELC25127                       | Male                |  ELC                               |  
-|    Member 4     |  Tejashwini M R                       | CB.EN.U4ELC25040                       |  Female               | ELC                                |   
-|    Member 5     |  Keerrthikaa B                       | CB.EN.U4ELC25017                       | Female                | ELC                                |  
-|    Member 6     |  Mamidipaka Aagama Vyahruthi                       | CB.EN.U4ELC25157                       |     Female      |  ELC                               |   
+|         Role    |         👤 Name         |   🎓 Roll Number      |   ⚧️ Gender   |   🏫 Department / Programme   |  Caste Category  | Disability Details |
+|:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:|:----------------:|:------------------:|
+|   Team Leader   |   V R Bhirugu Dev       | CB.EN.U4ELC24156       |  Male           | EEE/ELC                        |  OC |        None        |
+|    Member 2     |   Adittya Seetharaman   | CB.EN.U4EEE24004       | Male            | EEE                            |  OC |        None        |
+|    Member 3     | Pranav S                | CB.EN.U4ELC25127       | Male            | EEE/ELC                        | Others |        None        |
+|    Member 4     | Tejashwini M R          | CB.EN.U4ELC25040       |  Female         | EEE/ELC                        |  BC  |        None        |
+|    Member 5     | Keerrthikaa B           | CB.EN.U4ELC25017       | Female          | EEE/ELC                        |  OC |        None        |
+|    Member 6     | Mamidipaka Aagama Vyahruthi | CB.EN.U4ELC25157   |     Female      | EEE/ELC                        |  OC  |        None        |
 
 #### Mentor Details
 
